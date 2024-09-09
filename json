@@ -1,0 +1,62 @@
+{
+    "categories": [
+        {
+            "name": "AliExpress",
+            "description": "Discounts and deals on AliExpress products",
+            "image": "https://www.example.com/images/aliexpress.png",
+            "coupons": [
+                {
+                    "id": "coupon1",
+                    "discount": "10%",
+                    "valid_until": "2024-12-31",
+                    "link": "https://www.aliexpress.com/coupon1"
+                },
+                {
+                    "id": "coupon2",
+                    "discount": "15%",
+                    "valid_until": "2024-10-15",
+                    "link": "https://www.aliexpress.com/coupon2"
+                }
+            ]
+        },
+        {
+            "name": "Amazon",
+            "description": "Exclusive deals on Amazon products",
+            "image": "https://www.example.com/images/amazon.png",
+            "coupons": [
+                {
+                    "id": "coupon3",
+                    "discount": "$5 off",
+                    "valid_until": "2024-11-30",
+                    "link": "https://www.amazon.com/coupon3"
+                }
+            ]
+        },
+        {
+            "name": "Temu",
+            "description": "Best coupons from Temu",
+            "image": "https://www.example.com/images/temu.png",
+            "coupons": [
+                {
+                    "id": "coupon4",
+                    "discount": "20%",
+                    "valid_until": "2024-09-30",
+                    "link": "https://www.temu.com/coupon4"
+                }
+            ]
+        },
+        {
+            "name": "eBay",
+            "description": "eBay coupons for your favorite products",
+            "image": "https://www.example.com/images/ebay.png",
+            "coupons": [
+                {
+                    "id": "coupon5",
+                    "discount": "$10 off",
+                    "valid_until": "2024-12-31",
+                    "link": "https://www.ebay.com/coupon5"
+                }
+            ]
+        }
+    ]
+}
