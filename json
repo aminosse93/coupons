@@ -7,45 +7,45 @@
             "coupons": [
                 {
                     "id": "CouponsManager n'est pas disponible",
-                    "discount": "1%",
+                    "discount": "10%",
                     "valid_until": "2024-12-31",
                     "code": "Z34RTYI90",
-                    "lien": "https://www.example.com"
+                    "link": "https://www.aliexpress.com/coupon1"
                 },
                 {
                     "id": "GRR - Gestion Réservation de Ressources",
                     "discount": "10%",
                     "valid_until": "2024-12-31",
                     "code": "Z34RTYI90",
-                    "lien": "https://www.example.com"
+                    "link": "https://www.aliexpress.com/coupon2"
                 },
                 {
                     "id": "Discounts and deals on AliExpress products",
                     "discount": "10%",
                     "valid_until": "2024-12-31",
                     "code": "Z34RTYI90",
-                    "lien": "https://www.example.com"
+                    "link": "https://www.aliexpress.com/coupon3"
                 },
                 {
                     "id": "GRR - Gestion Réservation de Ressources",
                     "discount": "10%",
                     "valid_until": "2024-12-31",
                     "code": "Z34RTYI90",
-                    "lien": "https://www.example.com"
+                    "link": "https://www.aliexpress.com/coupon4"
                 },
                 {
-                    "id": "AliExpress UK New Customer Coupon Code: get $6.00 off $23.00 ",
+                    "id": "AliExpress UK New Customer Coupon Code: get $6.00 off $23.00",
                     "discount": "10%",
                     "valid_until": "Expires 2024-12-31",
                     "code": "Z34RTYI90",
-                    "lien": "https://www.example.com"
+                    "link": "https://www.aliexpress.com/coupon5"
                 },
                 {
                     "id": "coupon2",
                     "discount": "15%",
                     "valid_until": "2024-10-15",
                     "code": "Z34RTYI90",
-                    "lien": "https://www.example.com"
+                    "link": "https://www.aliexpress.com/coupon6"
                 }
             ]
         },
@@ -59,7 +59,7 @@
                     "discount": "$5 off",
                     "valid_until": "2024-11-30",
                     "code": "Z34RTYI90",
-                    "lien": "https://www.example.com"
+                    "link": "https://www.amazon.com/coupon1"
                 }
             ]
         },
@@ -73,7 +73,7 @@
                     "discount": "20%",
                     "valid_until": "2024-09-30",
                     "code": "Z34RTYI90",
-                    "lien": "https://www.example.com"
+                    "link": "https://www.temu.com/coupon1"
                 }
             ]
         },
@@ -87,7 +87,7 @@
                     "discount": "$10 off",
                     "valid_until": "2024-12-31",
                     "code": "Z34RTYI90",
-                    "lien": "https://www.example.com"
+                    "link": "https://www.ebay.com/coupon1"
                 }
             ]
         }
