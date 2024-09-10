@@ -9,37 +9,37 @@
                     "id": "coupon1",
                     "discount": "10%",
                     "valid_until": "2024-12-31",
-                    "link": "https://www.aliexpress.com/coupon1"
+                    "code": "https://www.aliexpress.com/coupon1"
                 },
                 {
                     "id": "coupon1",
                     "discount": "10%",
                     "valid_until": "2024-12-31",
-                    "link": "https://www.aliexpress.com/coupon1"
+                    "code": "https://www.aliexpress.com/coupon1"
                 },
                 {
                     "id": "coupon1",
                     "discount": "10%",
                     "valid_until": "2024-12-31",
-                    "link": "https://www.aliexpress.com/coupon1"
+                    "code": "https://www.aliexpress.com/coupon1"
                 },
                 {
                     "id": "coupon1",
                     "discount": "10%",
                     "valid_until": "2024-12-31",
-                    "link": "https://www.aliexpress.com/coupon1"
+                    "code": "https://www.aliexpress.com/coupon1"
                 },
                 {
                     "id": "coupon1",
                     "discount": "10%",
                     "valid_until": "2024-12-31",
-                    "link": "https://www.aliexpress.com/coupon1"
+                    "code": "https://www.aliexpress.com/coupon1"
                 },
                 {
                     "id": "coupon2",
                     "discount": "15%",
                     "valid_until": "2024-10-15",
-                    "link": "https://www.aliexpress.com/coupon2"
+                    "code": "https://www.aliexpress.com/coupon2"
                 }
             ]
         },
@@ -52,7 +52,7 @@
                     "id": "coupon3",
                     "discount": "$5 off",
                     "valid_until": "2024-11-30",
-                    "link": "https://www.amazon.com/coupon3"
+                    "code": "https://www.amazon.com/coupon3"
                 }
             ]
         },
@@ -65,7 +65,7 @@
                     "id": "coupon4",
                     "discount": "20%",
                     "valid_until": "2024-09-30",
-                    "link": "https://www.temu.com/coupon4"
+                    "code": "https://www.temu.com/coupon4"
                 }
             ]
         },
@@ -78,7 +78,7 @@
                     "id": "coupon5",
                     "discount": "$10 off",
                     "valid_until": "2024-12-31",
-                    "link": "https://www.ebay.com/coupon5"
+                    "code": "https://www.ebay.com/coupon5"
                 }
             ]
         }
