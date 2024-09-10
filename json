@@ -10,36 +10,42 @@
                     "discount": "10%",
                     "valid_until": "2024-12-31",
                     "code": "Z34RTYI90"
+                    "lien": "https://www.example.com"
                 },
                 {
                     "id": "GRR - Gestion Réservation de Ressources",
                     "discount": "10%",
                     "valid_until": "2024-12-31",
                     "code": "Z34RTYI90"
+                    "lien": "https://www.example.com"
                 },
                 {
                     "id": "Discounts and deals on AliExpress products",
                     "discount": "10%",
                     "valid_until": "2024-12-31",
                     "code": "Z34RTYI90"
+                    "lien": "https://www.example.com"
                 },
                 {
                     "id": "GRR - Gestion Réservation de Ressources",
                     "discount": "10%",
                     "valid_until": "2024-12-31",
                     "code": "Z34RTYI90"
+                    "lien": "https://www.example.com"
                 },
                 {
                     "id": "AliExpress UK New Customer Coupon Code: get $6.00 off $23.00 ",
                     "discount": "10%",
                     "valid_until": "Expires 2024-12-31",
                     "code": "Z34RTYI90"
+                    "lien": "https://www.example.com"
                 },
                 {
                     "id": "coupon2",
                     "discount": "15%",
                     "valid_until": "2024-10-15",
                     "code": "Z34RTYI90"
+                    "lien": "https://www.example.com"
                 }
             ]
         },
@@ -53,6 +59,7 @@
                     "discount": "$5 off",
                     "valid_until": "2024-11-30",
                     "code": "Z34RTYI90"
+                    "lien": "https://www.example.com"
                 }
             ]
         },
@@ -66,6 +73,7 @@
                     "discount": "20%",
                     "valid_until": "2024-09-30",
                     "code": "Z34RTYI90"
+                    "lien": "https://www.example.com"
                 }
             ]
         },
@@ -79,6 +87,7 @@
                     "discount": "$10 off",
                     "valid_until": "2024-12-31",
                     "code": "Z34RTYI90"
+                    "lien": "https://www.example.com"
                 }
             ]
         }
