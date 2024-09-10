@@ -6,7 +6,7 @@
             "image": "https://www.example.com/images/aliexpress.png",
             "coupons": [
                 {
-                    "id": "coupon1",
+                    "id": "CouponsManager n'est pas disponible",
                     "discount": "10%",
                     "valid_until": "2024-12-31",
                     "code": "https://www.aliexpress.com/coupon1"
