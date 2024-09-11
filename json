@@ -6,22 +6,22 @@
             "image": "https://www.example.com/images/aliexpress.png",
             "coupons": [
                 {
-                    "id": "CouponsManager n'est pas disponible 1amine",
+                    "id": "Discounts and deals on AliExpress products",
                     "discount": "1%",
                     "valid_until": "2024-12-31",
                     "code": "Z34RTYI90",
                     "link": "https://www.aliexpress.com",
-                    "Description": "Combine Google Analytics 4 (GA4) with your App campaigns and take your business to the next level.",
+                    "Description": "Discounts and deals on AliExpress products",
                     "used": "22108 Used - 8 Today"
                 },
                 {
-                    "id": "GRR - Gestion Réservation de Ressources",
+                    "id": "Discounts and deals on AliExpress products",
                     "discount": "10%",
                     "valid_until": "2024-12-31",
                     "code": "Z34RTYI90",
                     "link": "https://www.aliexpress.com/coupon2",
-                    "Description": "",
-                    "used": ""
+                    "Description": "Discounts and deals on AliExpress products",
+                    "used": "22108 Used - 8 Today"
                 },
                 {
                     "id": "Discounts and deals on AliExpress products",
@@ -29,17 +29,17 @@
                     "valid_until": "2024-12-31",
                     "code": "Z34RTYI90",
                     "link": "https://www.aliexpress.com/coupon3",
-                    "Description": "",
-                    "used": ""
+                    "Description": "Discounts and deals on AliExpress products",
+                    "used": "22108 Used - 8 Today"
                 },
                 {
-                    "id": "GRR - Gestion Réservation de Ressources",
+                    "id": "Discounts and deals on AliExpress products",
                     "discount": "10%",
                     "valid_until": "2024-12-31",
                     "code": "Z34RTYI90",
                     "link": "https://www.aliexpress.com/coupon4",
-                    "Description": "",
-                    "used": ""
+                    "Description": "Discounts and deals on AliExpress products",
+                    "used": "22108 Used - 8 Today"
                 },
                 {
                     "id": "AliExpress UK New Customer Coupon Code: get $6.00 off $23.00",
@@ -47,8 +47,8 @@
                     "valid_until": "Expires 2024-12-31",
                     "code": "Z34RTYI90",
                     "link": "https://www.aliexpress.com/coupon5",
-                    "Description": "",
-                    "used": ""
+                    "Description": "Discounts and deals on AliExpress products",
+                    "used": "22108 Used - 8 Today"
                 },
                 {
                     "id": "coupon2",
@@ -56,8 +56,8 @@
                     "valid_until": "2024-10-15",
                     "code": "Z34RTYI90",
                     "link": "https://www.aliexpress.com/coupon6",
-                    "Description": "",
-                    "used": ""
+                    "Description": "Discounts and deals on AliExpress products",
+                    "used": "22108 Used - 8 Today"
                 }
             ]
         },
@@ -67,13 +67,13 @@
             "image": "https://www.example.com/images/amazon.png",
             "coupons": [
                 {
-                    "id": "coupon3",
+                    "id": "Exclusive deals on Amazon products",
                     "discount": "$5 off",
                     "valid_until": "2024-11-30",
                     "code": "Z34RTYI90",
                     "link": "https://www.amazon.com/coupon1",
-                    "Description": "",
-                    "used": ""
+                    "Description": "Exclusive deals on Amazon products",
+                    "used": "22108 Used - 8 Today"
                 }
             ]
         },
@@ -83,13 +83,13 @@
             "image": "https://www.example.com/images/temu.png",
             "coupons": [
                 {
-                    "id": "coupon4",
+                    "id": "Best coupons from Temu",
                     "discount": "20%",
                     "valid_until": "2024-09-30",
                     "code": "Z34RTYI90",
                     "link": "https://www.temu.com/coupon1",
-                    "Description": "",
-                    "used": ""
+                    "Description": "Best coupons from Temu",
+                    "used": "22108 Used - 8 Today"
                 }
             ]
         },
@@ -99,13 +99,13 @@
             "image": "https://www.example.com/images/ebay.png",
             "coupons": [
                 {
-                    "id": "coupon5",
+                    "id":"eBay coupons for your favorite products",
                     "discount": "$10 off",
                     "valid_until": "2024-12-31",
                     "code": "Z34RTYI90",
                     "link": "https://www.ebay.com/coupon1",
-                    "Description": "",
-                    "used": ""
+                    "Description": "eBay coupons for your favorite products",
+                    "used": "22108 Used - 8 Today"
                 }
             ]
         }
