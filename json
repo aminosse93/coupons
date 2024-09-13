@@ -3,7 +3,7 @@
         {
             "name": "AliExpress",
             "description": "Discounts and deals on AliExpress products",
-            "image": "https://github.com/aminosse93/coupons/blob/main/ad4100fa87dd7d530d03c179637c47a4.png?raw=true",
+            "image": "https://raw.githubusercontent.com/aminosse93/coupons/main/ad4100fa87dd7d530d03c179637c47a4.png",
             "coupons": [
                 {
                     "id": "Discounts and deals on AliExpress products",
@@ -64,89 +64,7 @@
         {
             "name": "Amazon",
             "description": "Exclusive deals on Amazon products",
-            "image": "{
-    "categories": [
-        {
-            "name": "AliExpress",
-            "description": "Discounts and deals on AliExpress products",
-            "image": "https://github.com/aminosse93/coupons/blob/main/ad4100fa87dd7d530d03c179637c47a4.png?raw=true",
-            "coupons": [
-                {
-                    "id": "Discounts and deals on AliExpress products",
-                    "discount": "1%",
-                    "valid_until": "2024-12-31",
-                    "code": "Z34RTYI90",
-                    "link": "https://www.aliexpress.com",
-                    "Description": "Discounts and deals on AliExpress products",
-                    "used": "22108 Used - 8 Today"
-                },
-                {
-                    "id": "Discounts and deals on AliExpress products",
-                    "discount": "10%",
-                    "valid_until": "2024-12-31",
-                    "code": "Z34RTYI90",
-                    "link": "https://www.aliexpress.com/coupon2",
-                    "Description": "Discounts and deals on AliExpress products",
-                    "used": "22108 Used - 8 Today"
-                },
-                {
-                    "id": "Discounts and deals on AliExpress products",
-                    "discount": "10%",
-                    "valid_until": "2024-12-31",
-                    "code": "Z34RTYI90",
-                    "link": "https://www.aliexpress.com/coupon3",
-                    "Description": "Discounts and deals on AliExpress products",
-                    "used": "22108 Used - 8 Today"
-                },
-                {
-                    "id": "Discounts and deals on AliExpress products",
-                    "discount": "10%",
-                    "valid_until": "2024-12-31",
-                    "code": "Z34RTYI90",
-                    "link": "https://www.aliexpress.com/coupon4",
-                    "Description": "Discounts and deals on AliExpress products",
-                    "used": "22108 Used - 8 Today"
-                },
-                {
-                    "id": "AliExpress UK New Customer Coupon Code: get $6.00 off $23.00",
-                    "discount": "10%",
-                    "valid_until": "Expires 2024-12-31",
-                    "code": "Z34RTYI90",
-                    "link": "https://www.aliexpress.com/coupon5",
-                    "Description": "Discounts and deals on AliExpress products",
-                    "used": "22108 Used - 8 Today"
-                },
-                {
-                    "id": "coupon2",
-                    "discount": "15%",
-                    "valid_until": "2024-10-15",
-                    "code": "Z34RTYI90",
-                    "link": "https://www.aliexpress.com/coupon6",
-                    "Description": "Discounts and deals on AliExpress products",
-                    "used": "22108 Used - 8 Today"
-                }
-            ]
-        },
-        {
-            "name": "Amazon",
-            "description": "Exclusive deals on Amazon products",
-            "image": "",
-            "coupons": [
-                {
-                    "id": "Exclusive deals on Amazon products",
-                    "discount": "$5 off",
-                    "valid_until": "2024-11-30",
-                    "code": "Z34RTYI90",
-                    "link": "https://www.amazon.com/coupon1",
-                    "Description": "Exclusive deals on Amazon products",
-                    "used": "22108 Used - 8 Today"
-                }
-            ]
-        },
-        {
-            "name": "LunaCafé",
-            "description": "Exclusive deals on Amazon products",
-            "image": "https://www.example.com/images/amazon.png",
+            "image": "https://raw.githubusercontent.com/aminosse93/coupons/main/ad4100fa87dd7d530d03c179637c47a4.png",
             "coupons": [
                 {
                     "id": "Exclusive deals on Amazon products",
@@ -162,7 +80,7 @@
         {
             "name": "Temu",
             "description": "Best coupons from Temu",
-            "image": "https://www.example.com/images/temu.png",
+            "image": "https://raw.githubusercontent.com/aminosse93/coupons/main/ad4100fa87dd7d530d03c179637c47a4.png",
             "coupons": [
                 {
                     "id": "Best coupons from Temu",
@@ -178,70 +96,7 @@
         {
             "name": "eBay",
             "description": "eBay coupons for your favorite products",
-            "image": "https://www.example.com/images/ebay.png",
-            "coupons": [
-                {
-                    "id":"eBay coupons for your favorite products",
-                    "discount": "$10 off",
-                    "valid_until": "2024-12-31",
-                    "code": "Z34RTYI90",
-                    "link": "https://www.ebay.com/coupon1",
-                    "Description": "eBay coupons for your favorite products",
-                    "used": "22108 Used - 8 Today"
-                }
-            ]
-        }
-    ]
-}
-",
-            "coupons": [
-                {
-                    "id": "Exclusive deals on Amazon products",
-                    "discount": "$5 off",
-                    "valid_until": "2024-11-30",
-                    "code": "Z34RTYI90",
-                    "link": "https://www.amazon.com/coupon1",
-                    "Description": "Exclusive deals on Amazon products",
-                    "used": "22108 Used - 8 Today"
-                }
-            ]
-        },
-        {
-            "name": "LunaCafé",
-            "description": "Exclusive deals on Amazon products",
-            "image": "https://www.example.com/images/amazon.png",
-            "coupons": [
-                {
-                    "id": "Exclusive deals on Amazon products",
-                    "discount": "$5 off",
-                    "valid_until": "2024-11-30",
-                    "code": "Z34RTYI90",
-                    "link": "https://www.amazon.com/coupon1",
-                    "Description": "Exclusive deals on Amazon products",
-                    "used": "22108 Used - 8 Today"
-                }
-            ]
-        },
-        {
-            "name": "Temu",
-            "description": "Best coupons from Temu",
-            "image": "https://www.example.com/images/temu.png",
-            "coupons": [
-                {
-                    "id": "Best coupons from Temu",
-                    "discount": "20%",
-                    "valid_until": "2024-09-30",
-                    "code": "Z34RTYI90",
-                    "link": "https://www.temu.com/coupon1",
-                    "Description": "Best coupons from Temu",
-                    "used": "22108 Used - 8 Today"
-                }
-            ]
-        },
-        {
-            "name": "eBay",
-            "description": "eBay coupons for your favorite products",
-            "image": "https://www.example.com/images/ebay.png",
+            "image": "https://raw.githubusercontent.com/aminosse93/coupons/main/ad4100fa87dd7d530d03c179637c47a4.png",
             "coupons": [
                 {
                     "id":"eBay coupons for your favorite products",
