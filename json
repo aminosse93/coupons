@@ -78,6 +78,22 @@
             ]
         },
         {
+            "name": "LunaCafé",
+            "description": "Exclusive deals on Amazon products",
+            "image": "https://www.example.com/images/amazon.png",
+            "coupons": [
+                {
+                    "id": "Exclusive deals on Amazon products",
+                    "discount": "$5 off",
+                    "valid_until": "2024-11-30",
+                    "code": "Z34RTYI90",
+                    "link": "https://www.amazon.com/coupon1",
+                    "Description": "Exclusive deals on Amazon products",
+                    "used": "22108 Used - 8 Today"
+                }
+            ]
+        },
+        {
             "name": "Temu",
             "description": "Best coupons from Temu",
             "image": "https://www.example.com/images/temu.png",
