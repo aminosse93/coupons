@@ -3,7 +3,7 @@
         {
             "name": "AliExpress",
             "description": "Discounts and deals on AliExpress products",
-            "image": "data:image/png;base64,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",
+            "image": "https://github.com/aminosse93/coupons/blob/main/ad4100fa87dd7d530d03c179637c47a4.png?raw=true",
             "coupons": [
                 {
                     "id": "Discounts and deals on AliExpress products",
@@ -64,7 +64,136 @@
         {
             "name": "Amazon",
             "description": "Exclusive deals on Amazon products",
-            "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAJUAnwMBIgACEQEDEQH/xAAcAAEAAwEBAQEBAAAAAAAAAAAABgcIBQQDAgH/xABOEAABAwMBBAQICAoHCQEAAAABAAIDBAURBgcSITFBUWFxCBMigZGhsbMUMjZScnXB0RUjMzdCU2Jzk7IXJENUdILSNDVEZJKio+HwFv/EABkBAQADAQEAAAAAAAAAAAAAAAABAwQFAv/EACsRAQACAQEFBgcBAAAAAAAAAAABAgMRBAUSITEyQUJRkaEUFVJxscHwE//aAAwDAQACEQMRAD8AvFERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEVf3bbBpS1XOrt1Q6tdPSyuhkMcGW77TggZI6QQu1YNd2C+WKrvdPUup6GkeWTvqW7m4cA+fORjHcgkyKpq7bzp6GodHR264VMbTjxuGsDu0AnPpwpZoraFYdZF8VulkhrGN3nUtQ0NfjrGCQ4dx78IJaijOsdd2HR8bfwtUuNS9u9HSwDelcOvGQAOB4kgcCoTBt8sL5w2e1XGOInHjBuOI7xn7UFuIudYL7bNRW5lfZ6uOppnHG83m13zXA8QeI4HrXRQEUa1brvT+km4u1aPhJbvNpYRvyuHd0d5wFXdb4QNEyTFBp6omZ1z1LYj6A13tQXSiqOz7erJUyMZdbZV0O8cGSNwmY3tPI+gFWjarnQ3ihirrZVRVNLKMsljdkHs7D2HiEHrRFXd32yaXtN1q7dUR3F81JM6GR0cDS3eacHGXDpBHJBYiKr/6dNJfqLr/AAGf60/p00l+ouv8Bn+tBaCKC6X2rac1PeobRQMro6qcOMfj4QGndaXEZDj0AnzKdICKMau17p7SI3LrWZqi3ebSwDflcO7kO9xCgztv1l8YQ2zXAs6CXMB9GftQUzrv5b6h+tKn3rl+KCsutwtUOmLbDLM2asdUeJhaXOlfuADgOhoa4+cnoX7138t9Q/WlT71ys3waaKJ9bfa97AZoY4Yo3dQeXl38jUFV37TN708YxerZUUgl+I6Rvku7A4cM9i81lulVZbtSXOgkLKilkEjDnnjmD2EZBHSCVpzbZSR1Wza6l7Wl8BiljJHxSJGgkeYuHnWVkEmlotS6/vdwutJbqqtllkL5HRsJZH81m8eHAYAHPAXAraOpt9VJSV1PLT1ERw+KVha5p7QVrTZjb4LboGxxU7AwS0cc78fpPkAeSfSqh8JCmjj1PbKhrQHy0W68jp3XnHtQc3YDep6DXDLa17vg9yiex7M8N5jS9ru/g4f5le20DUX/AOW0lcLsxodPGwMgaeRkcd1uesAnJ7AVnPYyM7S7J9OX3T1p++WW3X+3uoLvSsqqVxDjG4kcRyII4goMZVtXUV9XNV1sz5qiZxfJI85Liekqz7DsMvtxt7Kq41tPbnyN3mQPYXvH0sYDT2cVZdRsv0DaJYrnPTtoY6aRsm/LWuEeQcjO+48OC9lftX0TQyGN96ZK8dEEMkg/6gMetBmrVem7hpS8yWu6tYJmtD2vjdlkjTyc09XA+hTjYBqGpt+r22YyONHcWPzGT5LZGtLg7sOGkduR1Bc3bJqm06t1DSV1mdK6OKkEL3SR7mSHuPAf5l5Njv5yrJ+8f7t6DWCzfq7ZRrCv1VeK2jt0UtNU1s00TxUxjLXvLhwJBHNaQRBlWp2S6ypaeWoqrdBFBEwvkkfWQhrGgZJJ3uQCgyu3b3rrxsjtKWuXyGEOuEjek8xHns4E9uB0EKn7Na6u9XSmttuiMtVUyBkbftPUAMknoAKCfbA7LV12uIbpEzFJbmPdLIRwLnscxrR2+UT3NKuvadq0aO0tNXRBrq2ZwhpGO5b5/SPYACe3AHSuhovTNJpLT9PaqPDiwb082MGaUgbzj6OHUAB0KmPCQuT5dR2y25/FU1IZuf6T3EH1MHpQVPV1NTcKySpqpZKipnfvPe87znuKsyh2F6mqrdHUS1dvpp5AHCnme/LQehxDTg9gyotssoY7htCscEoywVIlx17gLx62rXKDHOu/lvqH60qfeuVseDN+Q1D9Kn9kiqfXfy31D9aVPvXK2PBm/Iah+lT+yRBO9sX5tb3+7j94xZPWsNsf5tb3+7j94xZPQbH0J8h9PfVdN7pqpnwk/lBaP8I7+cq5tCfIfT31XTe6aqZ8JP5QWj/CO/nKCKbGPzmWX6UvunrRevtVQaP05PdJmCSXIjp4SceMkPId3Ak9gKzpsY/OZZfpS+6ep/4TEsop9PQhx8S59Q5zeguAjA9TnelBT2otQ3XUlwfXXiskqJSTutJ8iMdTW8mjuViaP2I3K8W+GvvNcLZHM0PZAIvGSlp5b3EBvdxPWAqxtb6eO50j6xodTNnYZgRnLN4Z4d2VteORksbZIntfG8BzXNOQ4HkQUGU9qei6bRN3o6Kkq5qls9P41zpWgEHeIwMdy/Ox385Nk/eP925enbVqKm1FreZ1DIJKaiiFKyRpy15aSXEdm84jPTjK4+zm609l1xZ6+scGU8dQGyPPJjXAtLj2Deye5Br9QvaprWPRunnSQOa651WY6SM9B6XkdTc+ckBTGWVkUL5XnyGNLiewLHut9T1WrtRVF1q/Ja7yIIv1UQJ3W+sk9pKDiSyyTyvlme6SWRxc97zkuJ5knpK0ZsO0L+ArX+HbnCW3KuZ+KY8cYIejuLuBPZgcOKzvRVJo6yCqbHFI6GQPDJW7zHEHIyOkdisik256sheDPFbahueIfA5pI72uCDSizT4QjS3XzSeTqGIjuy4fYrK0Jthtup7hBa66ikoK+c7sWHeMikPVngQT1EY7VGPCTszt+032NmW4dSTO6ub2e2RBBNjJDdpdkJ+fKP8AxPWrljTSF2Fi1Ra7o8kR01Sx8mBk7mcO/wC3K2PBNFUQRzwSNkikaHsew5DmkZBB6Qgx7rv5b6h+tKn3rlbHgzg+I1CcHG/T8fNIrllt9FNIZJaOne93Nzomknz4X1gp4adpZTwxxNJyRG0NGfMgiG2IZ2bXvA/s2e8YsnrcL2NkY5j2hzXDBaRkELy/gu3f3Cl/gt+5Bz9CfIfT31XTe6aqa8JP/f8AZz/yjv51oEDAwOS+NRS09Tu/CYIpd34vjGB2PSgyxsX47TLLj50vuXq99rej5dYaXMFCAbhSP8fTAkDxhwQWZPLIPpA5DKl0FDSU79+ClgifjG8yMNPqXoQYjraSpoKqSlrYJKeoiO7JFK0tc09oK6VHe9R1FIyy0NyuctPJ5DKKGZ7g4H9EMB4jsWu7nZbVdw0XW20dbufF+EwNk3e7I4L+22z2u1Bwtdto6MO+MKaBsee/AQZ5g2LX92k6i6T/AIu5tw+G3ABznMGcgkcnngQOPLB4nhEdHaPuurrv8At0JaIyDUTyAhkA/a7eBwOZx2HGwl+IoYoS8xRsYXu3n7rQN53WesoOTQ2g2nSbLRFPNVGnozC2STi5+G4H3AdyzVpzZZq2/gPit/wKA5/HVxMQz9HBce/GFq0kNBLiABxJPQo7W6qha8x0ERmPz3HA8w5n1KrLnx4o1vOi3FgyZZ0pCq6fwfahzAanUkUb+kR0ZePSXj2L43DYBcY4ibdfqWok6GzwOiB84LlZMmobufK3GxjsiOPWv5Dqm4MILxDK3pBbg+kLL8xw689Wr5dm05aKd0poLU2ndodj/CVqm8S2ra74RCPGRbo4k7w5cOvBWhNSWOj1HZKq03BpMFQzdLm/GYeYcO0HBXvp5RPBHMBgSMDgOrIyvot0TrzYZjSdGP8AWmjLvo+4Op7lA51OXYgq2NPiph0YPQeHFp4juwVzqbUF6pKMUVLeLhDSDiII6p7WDjn4oOOa2dPDFUROhnjZLE8Ycx7Q4OHaCuC7Quk3P3zpu1Z7KRgHowpQ5hqLtp6URSO34P0Q7ymEdh5juXYodT0U+G1AdTvPzuLfT967M0Uc8bo5mNex3NrhkFRi56WIzJbnZH6l59h+/wBK5tsW0bPzxTxV8pdKuXZ9o5ZY4becJPFJHKwPie17Dyc05BX7Vbf1u3zluZqeUc8EtP8A7C6NNqa4w4Ejo5h+23j6RhRTedOmSukpvuy/WltYThFGoNXRH/aKR7e2Nwd7cL2x6ltj/jSvjPU6M/Zlaq7Zgt0tH4ZbbJnr1rP5dhF4GXm2v5VsI+k7HtX0/Cdv/v1N/Gb96t/1xz4o9VU4skeGXrReM3S3jnXU3mlavjJfrXHzq2n6ILvYEnNjjraPUjDknpWfR0kXCm1VQM/JtmlPY3A9ZXPqNWzu4U1LGzte4u9mFRfbsFfEvpsWe3hS1eGruVBbwWyzMa4f2bOLvQFC6i7XGtcGPqJDvHAZH5OezA5r32zTNRUYfWZp4vm/pn7v/uCz/HXyzphpr9/79tHwNMUa5r6fb+/Tv2m9w3OeWKKGRm43e3nY4j7FGdSMbJfZYoGjfdutwOlxA+8KYwQU1tpXCJjY4mAuce7mSelRnTtM+5XaW4zNPi2PLhnpceQ8w+xNppe9aYbTraZNmvSlr5axpWISyJgiiZG3kxoaPMv2iLpuZ1EREBERB8qmmgqo/F1ETJG9ThnC4dZpSmky6kmfCfmu8pv3+tSFFTlwY8vbjVdjz5MXYnRBanTdyhPkRsmb1xu+w4XOmpKmD8tTzR9rmEBWWixX3XjnszMNtN6ZI7URKrcjrX9VnPhik+PGx30mgr5fAqQ/8LB/DCpndVvq9l0b1r3191bZHWvpFBNN+Rhkk+gwn2KyGU8DPiQxt7mgL6r1G6vO/s8zvXyr7oFT6fuc+P6v4sdcjgPVz9S61JpJow6sqS79iIY9Z+5SdFpx7uw1682bJvHNbpyeWit9JQtxSwNYel3Nx8/NepEW2tYrGkRoxWtNp1mdXwrqZtZSyU73vY2QYJZzxlfqmp4qWBkMDAyNgwAF9UUcMcXF3p4p4eHuERF6eRERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREH/9k=",
+            "image": "{
+    "categories": [
+        {
+            "name": "AliExpress",
+            "description": "Discounts and deals on AliExpress products",
+            "image": "https://github.com/aminosse93/coupons/blob/main/ad4100fa87dd7d530d03c179637c47a4.png?raw=true",
+            "coupons": [
+                {
+                    "id": "Discounts and deals on AliExpress products",
+                    "discount": "1%",
+                    "valid_until": "2024-12-31",
+                    "code": "Z34RTYI90",
+                    "link": "https://www.aliexpress.com",
+                    "Description": "Discounts and deals on AliExpress products",
+                    "used": "22108 Used - 8 Today"
+                },
+                {
+                    "id": "Discounts and deals on AliExpress products",
+                    "discount": "10%",
+                    "valid_until": "2024-12-31",
+                    "code": "Z34RTYI90",
+                    "link": "https://www.aliexpress.com/coupon2",
+                    "Description": "Discounts and deals on AliExpress products",
+                    "used": "22108 Used - 8 Today"
+                },
+                {
+                    "id": "Discounts and deals on AliExpress products",
+                    "discount": "10%",
+                    "valid_until": "2024-12-31",
+                    "code": "Z34RTYI90",
+                    "link": "https://www.aliexpress.com/coupon3",
+                    "Description": "Discounts and deals on AliExpress products",
+                    "used": "22108 Used - 8 Today"
+                },
+                {
+                    "id": "Discounts and deals on AliExpress products",
+                    "discount": "10%",
+                    "valid_until": "2024-12-31",
+                    "code": "Z34RTYI90",
+                    "link": "https://www.aliexpress.com/coupon4",
+                    "Description": "Discounts and deals on AliExpress products",
+                    "used": "22108 Used - 8 Today"
+                },
+                {
+                    "id": "AliExpress UK New Customer Coupon Code: get $6.00 off $23.00",
+                    "discount": "10%",
+                    "valid_until": "Expires 2024-12-31",
+                    "code": "Z34RTYI90",
+                    "link": "https://www.aliexpress.com/coupon5",
+                    "Description": "Discounts and deals on AliExpress products",
+                    "used": "22108 Used - 8 Today"
+                },
+                {
+                    "id": "coupon2",
+                    "discount": "15%",
+                    "valid_until": "2024-10-15",
+                    "code": "Z34RTYI90",
+                    "link": "https://www.aliexpress.com/coupon6",
+                    "Description": "Discounts and deals on AliExpress products",
+                    "used": "22108 Used - 8 Today"
+                }
+            ]
+        },
+        {
+            "name": "Amazon",
+            "description": "Exclusive deals on Amazon products",
+            "image": "",
+            "coupons": [
+                {
+                    "id": "Exclusive deals on Amazon products",
+                    "discount": "$5 off",
+                    "valid_until": "2024-11-30",
+                    "code": "Z34RTYI90",
+                    "link": "https://www.amazon.com/coupon1",
+                    "Description": "Exclusive deals on Amazon products",
+                    "used": "22108 Used - 8 Today"
+                }
+            ]
+        },
+        {
+            "name": "LunaCafé",
+            "description": "Exclusive deals on Amazon products",
+            "image": "https://www.example.com/images/amazon.png",
+            "coupons": [
+                {
+                    "id": "Exclusive deals on Amazon products",
+                    "discount": "$5 off",
+                    "valid_until": "2024-11-30",
+                    "code": "Z34RTYI90",
+                    "link": "https://www.amazon.com/coupon1",
+                    "Description": "Exclusive deals on Amazon products",
+                    "used": "22108 Used - 8 Today"
+                }
+            ]
+        },
+        {
+            "name": "Temu",
+            "description": "Best coupons from Temu",
+            "image": "https://www.example.com/images/temu.png",
+            "coupons": [
+                {
+                    "id": "Best coupons from Temu",
+                    "discount": "20%",
+                    "valid_until": "2024-09-30",
+                    "code": "Z34RTYI90",
+                    "link": "https://www.temu.com/coupon1",
+                    "Description": "Best coupons from Temu",
+                    "used": "22108 Used - 8 Today"
+                }
+            ]
+        },
+        {
+            "name": "eBay",
+            "description": "eBay coupons for your favorite products",
+            "image": "https://www.example.com/images/ebay.png",
+            "coupons": [
+                {
+                    "id":"eBay coupons for your favorite products",
+                    "discount": "$10 off",
+                    "valid_until": "2024-12-31",
+                    "code": "Z34RTYI90",
+                    "link": "https://www.ebay.com/coupon1",
+                    "Description": "eBay coupons for your favorite products",
+                    "used": "22108 Used - 8 Today"
+                }
+            ]
+        }
+    ]
+}
+",
             "coupons": [
                 {
                     "id": "Exclusive deals on Amazon products",
